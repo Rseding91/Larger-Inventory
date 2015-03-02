@@ -1,0 +1,9 @@
+{
+  "name": "Larger Inventory",
+  "version": "1.0.0",
+  "title": "Larger Inventory",
+  "author": "Rseding91",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "Doubles the player's main inventory size."
+}
